@@ -43,7 +43,7 @@ nav a:hover {
         rgba(10,20,30,.65),
         rgba(10,20,30,.65)
     ),
-    url("../images/excavator.jpg");
+    url("./excavator.png");
 
     background-size: cover;
     background-position: center;
