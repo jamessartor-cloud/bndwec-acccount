@@ -15,8 +15,8 @@ header {
     color: white;
     padding: 20px 40px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content:space-between;
+    align-items:center;
     flex-wrap: wrap;
 }
 
@@ -34,14 +34,14 @@ nav a {
 }
 
 nav a:hover {
-    color: #f5a623;
+    color: #143b73;
 }
 
 .hero {
     min-height: 70vh;
     background: linear-gradient(
-        rgba(0,0,0,.65),
-        rgba(0,0,0,.65)
+        rgba(12,22,36,.80),
+        rgba(12,22,36,.80)
     ),
     url("../images/construction.jpg");
 
@@ -70,8 +70,8 @@ nav a:hover {
 
 .button {
     display: inline-block;
-    background: #f5a623;
-    color: black;
+    background: #143b73;
+    color: white;
     padding: 15px 25px;
     text-decoration: none;
     font-weight: bold;
