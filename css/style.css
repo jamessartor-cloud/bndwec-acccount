@@ -70,13 +70,13 @@ nav a:hover {
 
 .button {
     display: inline-block;
-    background: #143b73;
-    color: white;
+    background: white;
+    color: #143b73;
     padding: 15px 25px;
     text-decoration: none;
     font-weight: bold;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 .secondary {
